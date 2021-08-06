@@ -2,7 +2,7 @@
 
 Syncs two Radarr/Sonarr/Lidarr servers through the web API. Useful for syncing a 4k Radarr/Sonarr instance to a 1080p Radarr/Sonarr instance.
 
-* Supports Radarr/Sonarr v3.
+* Supports Radarr/Sonarr v3
 * Can sync by `profile` name or `profile_id`
 * Filter what media gets synced by `profile` name or `profile_id`
 * Supports Docker for multiple instances

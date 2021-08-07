@@ -1,5 +1,5 @@
 # Syncarr
-Edit Fork of main repo, with build automation for amd64, armv6/7/64 Docker images
+Edit: Fork of main repo, with build automation for amd64, armv6/7/64 Docker images
 
 Syncs two Radarr/Sonarr/Lidarr servers through the web API. Useful for syncing a 4k Radarr/Sonarr instance to a 1080p Radarr/Sonarr instance.
 
